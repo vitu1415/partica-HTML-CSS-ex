@@ -1,0 +1,25 @@
+main{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    grid-template-rows: 50% 50%;
+    grid-template-areas: 'lado post1'
+    'lado post2';
+    grid-gap: 15px;
+    min-height: 500px;
+}
+
+.lado{
+    grid-area: lado;
+    text-align: center;
+}
+.post1{
+    grid-area: post1;
+    border-radius: 5px;
+    border: 1px solid rgb(141, 141, 141);
+}
+.post2{ 
+    grid-area: post2;
+    margin-top: 50px;
+    border-radius: 5px;
+    border: 1px solid rgb(141, 141, 141);
+}

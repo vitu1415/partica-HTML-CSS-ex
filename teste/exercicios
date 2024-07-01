@@ -1,0 +1,189 @@
+1- Ano: 2024 - Prefeitura de Senador Salgado Filho - RS - Analista e Programador
+No CSS 3, as pseudoclasses dinâmicas controlam os estados dos elementos.
+Sabendo disso, qual pseudoclasse é aplicada quando o cursor do mouse está sobre o
+elemento?
+a) :checked
+b) :empty
+c) :hover (assinalei)
+d) :not
+
+2- Ano: 2024 - SES-MT - Analista de Sistemas – Administrador de Banco de Dados;
+Infraestrutura; O&M
+
+HTML5 e CSS3 desempenham um papel fundamental no desenvolvimento web
+contemporâneo, fornecendo uma extensa variedade de recursos que permitem a criação de
+páginas web atrativas visualmente, adaptáveis a diferentes dispositivos e enriquecidas
+semanticamente.
+Com relação as linguagens de marcação, assinale (V) para a afirmativa verdadeira e (F) para
+falsa.
+( ) O HTML5 suporta elementos multimídia integrados, como áudio e vídeo, sem a
+necessidade de plugins externos.
+( ) HTML5 e CSS3 são fundamentais para criar websites responsivos, que se adaptam
+automaticamente a diferentes dispositivos e tamanhos de tela, proporcionando uma melhor
+experiência de usuário em smartphones, tablets e desktops.
+( ) O HTML5 e o CSS3 são as linguagens de marcação e de estilo mais recentes para
+desenvolvimento web
+( ) O HTML 5 oferece flexibilidade e controle mais precisos sobre o posicionamento e o design
+dos elementos em uma página web.
+As afirmativas são, respectivamente,
+
+a) F – F – F – V.
+b) V – V – V – V.
+c) F – V – V – F.
+d) V – V – V – F.  (assinalei)
+
+3- Ano: 2024 Banca: IV - UFG Órgão: Prefeitura de Rio Branco - AC Prova: IV - UFG -
+2024 - Prefeitura de Rio Branco - AC - Analista de Tecnologia da Informação
+Os padrões W3C definem uma plataforma aberta para desenvolvimento de aplicações
+web, sendo otimizados para interoperabilidade, segurança, privacidade, acessibilidade e
+internacionalização. No que tange às páginas web, o W3C propõe a utilização do CSS para:
+
+a) Criar conteúdo interativo e dinâmico.
+b) Definir os elementos e seus atributos.
+c) Customizar a apresentação visual. (assinalei)
+d) Armazenar e transportar dados.
+
+4- Ano: 2024 Banca: FGV Órgão: AL-PR Prova: FGV - 2024 - AL-PR - Analista Legislativo
+- Desenvolvedor de Sistemas
+O Box Model CSS é essencialmente uma caixa que envolve cada elemento HTML.
+Ele é formado por:
+
+a) height, width, border e padding.
+b) width, border, padding e margin.
+c) content, padding, borders e margins. (assinalei)
+d) height, border, content e margin.
+e) height, width, border e content.
+
+5- Ano: 2024 - TJ-AC - Analista Judiciário - Analista de Projetos de TI
+Em CSS3, quando se deseja aplicar estilos a elementos que são especificamente
+filhos diretos de um elemento pai, qual seletor é apropriado para garantir que os estilos não
+sejam aplicados a elementos aninhados mais profundamente?
+a) Descendente direto (>) (assinalei)
+b) Irmãos adjacentes (+)
+c) Classe (.classname)
+d) ID (#idname)
+
+6- Ano: 2024 - TJ-AC - Analista Judiciário - Analista de Negócios de TI
+Explorar o CSS3 nos permite criar designs web ricos e interativos. O CSS3 é a terceira
+versão das Cascading Style Sheets, permitindo a estilização de páginas web de forma mais
+eficaz e criativa. Entre suas várias funcionalidades está o recurso Flexbox, ou Flexible Box
+Layout.
+No layout de uma página web, flexbox facilita especificamente:
+a) A criação de layouts multicoluna com larguras fixas.
+b) O posicionamento preciso de elementos com 'position: absolute'.
+c) A distribuição de espaço e alinhamento de itens dentro de um contêiner. (assinalei)
+d) Adição de cantos arredondados e sombras aos elementos
+
+7- Ano: 2023 - TRT - 18ª Região (GO) - Analista Judiciário - Área: Apoio Especializado -
+Tecnologia da Informação
+Na configuração CSS3 de um link HTML5, para retirar o sublinhado padrão que
+aparece nos links utiliza-se a instrução
+a) text-decoration: empty
+b) underline: no
+c) text-decoration: none (assinalei)
+d) highlight: none
+e) highlight: no-underline
+
+8- Ano: 2024 - TRF - 5ª REGIÃO - Técnico Judiciário - Área de Apoio Especializado -
+Especialidade Desenvolvimento de Sistemas da Informação
+Na linguagem CSS, assinale a alternativa que apresenta a propriedade que é usada
+para arredondar as bordas de um elemento:
+a) corner-radius
+b) round-border
+c) border-round
+d) border-radius (assinalei)
+
+9- Ano: 2024 - TRF - 5ª REGIÃO - Técnico Judiciário - Área de Apoio Especializado -
+Especialidade Desenvolvimento de Sistemas da Informação
+A linguagem CSS é extremamente importante para a estilização de páginas web.
+Diante do exposto, assinale a alternativa que apresenta que propriedade CSS3 é usada para
+aplicar sombras a elementos.
+a) box-shadow (assinalei)
+b) shadow-effect
+c) element-shadow
+d) box-effect
+
+10- Ano: 2024 - IF-RN - Analista de Tecnologia da Informação
+A propriedade “display” do CSS é utilizada para especificar exibição de um elemento
+HTML. Cada elemento HTML tem um valor de exibição padrão dependendo do seu tipo. O
+valor de exibição padrão para a maioria dos elementos é “block” ou “inline”. Sobre este
+conceito os elementos HTML que possuem exibição padrão do tipo block são:
+a) <h1> e <p> (assinale)
+b) <h1> e <span>
+c) <p> e <a>
+d) <p> e <span>
+
+11- Analise os trechos de código abaixo.
+I. <p style="text-transform:capitalize"> Desenvolvimento Web </p>
+II. <h3> Seção 1.1.1 </h3>
+III. ul {list-style-type: circle; margin-left: 20px;}
+Esses códigos pertencem às linguagens:
+
+I. HTML
+II. HTML
+III. CSS
+
+12- Ano: 2024 - UFCSPA - RS - Técnico de Tecnologia da Informação - Área:
+Programação de Sistemas
+O HTML5 trouxe uma série de elementos que ajudam a definir setores principais de
+um documento HTML. Assinale a alternativa que apresenta apenas novos elementos incluídos
+no HTML5.
+a) head – scope – frameset
+b) center – footer – header
+c) article – nav – section (assinalei)
+d) border – hgroup – summary
+e) aside – base – time
+
+13- Ano: 2023 - PROCERGS - ANC - Analista em Computação - Ênfase em Programação
+de Sistemas na Tecnologia PHP
+Avalie os elementos abaixo do HTML5.
+I. input
+II. label
+III. section
+IV. textarea
+Em quais deles é possível utilizar o atributo placeholder?
+a) Apenas I e II.
+b) Apenas I e IV. (assinalei)
+c) Apenas II e III.
+d) Apenas III e IV.
+e) I, II, III e IV.
+
+14- Ano: 2023 - CREFITO-7ª Região(BA e SE) - Programador(a)
+<form>
+ <fieldset>
+ <legend>Login</legend>
+ <p><label>Usuário <input type=”text” name=”usuario” required></label></p>
+ <p><label>Senha <input type=”password” name=”senha” required></label></p>
+ </fieldset>
+ <p><button type=”submit”>Submeter</button></p>
+</form>
+Com relação ao código HTML5 acima apresentado, julgue o item.
+Após o código ser salvo no arquivo teste.html e aberto por um navegador, o resultado será o
+seguinte.
+
+a) Certo (assinalei)
+b) Errado
+
+15- Ano: 2023 - TJ-SE - Técnico Judiciário - Especialidade - Programação de Sistemas
+Mariana está desenvolvendo a nova página institucional de sua empresa e quer aproveitar
+algumas funcionalidades do HTML 5 para garantia de acessibilidade.
+Um dos cuidados que Mariana deve ter é:
+a) Configurar o atributo data-message em cada div;
+b) Utilizar o elemento label para associar a descrição de um campo ao componente do
+formulário; (assianlei)
+c) Nunca utilizar o atributo role;
+d) Evitar o uso de th nas tabelas;
+e) Definir todas as imagens como atributos background-image, da configuração CSS. 
+
+16- Ano: 2024 - Prefeitura de Cândido de Abreu - PR - Técnico em Informática
+No HTML 5, existem diversos elementos que podem ser usados para estruturar e apresentar
+o conteúdo de uma página da web. Qual das seguintes alternativas descreve
+CORRETAMENTE a tag “footer” da categoria “Flow content”?
+a) É usado para visualizar o progresso de uma tarefa.
+b) É utilizado em conteúdo que são de “grande importância”, incluindo coisas urgentes
+(como alertas).
+(assinalei) c) Marca a área inferior, normalmente conhecida como rodapé, do conteúdo geral do
+documento ou do conteúdo de uma seção específica a qual ele está subordinado.  
+d) Pode ser utilizado para incluir objetos como imagens, áudios, vídeos, componentes
+ActiveX e outros tipos de conteúdo que precisam de um plugin externo para serem
+exibidos

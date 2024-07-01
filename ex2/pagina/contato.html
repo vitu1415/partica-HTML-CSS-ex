@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../estilo/formulario.css">
+        <title>CVC - site teste</title>
+    </head>
+    <body>
+        <header>
+            <a href="../pagina/index.html"><img src="../imagem/cvc-logo.png" alt="logo da CVC"></a>
+            <h1>Realizamos sonhos <span style="color: #0A00B4; font-size: 60px;">Juntos</span> e <span style="color: #0A00B4; font-size: 60px;">Economizando</span></h1>
+        </header>
+        <nav>
+            <a href="https://www.cvc.com.br/?utm_content=2023_ic_branding_skag_marco_generica&gad_source" target="_blank">Passagens</a>
+            <a href="https://www.cvc.com.br/?utm_content=2023_ic_branding_skag_marco_generica&gad_source" target="_blank">Hotéis</a>
+            <a href="https://www.cvc.com.br/?utm_content=2023_ic_branding_skag_marco_generica&gad_source" target="_blank">Pacotes</a>
+            <a href="https://www.cvc.com.br/?utm_content=2023_ic_branding_skag_marco_generica&gad_source" target="_blank">Cruzeiro</a>
+            <a href="https://www.cvc.com.br/?utm_content=2023_ic_branding_skag_marco_generica&gad_source" target="_blank">Carro</a>
+        </nav>
+        <main>
+            <section>
+                <form id="formulario">
+                    <h1>Contato</h1>
+                    <h2>Se desejar entre em contato, preencha o formulário</h2>
+                    <label for="nome">NOME (OBRIGATÓRIO)</label>
+                    <input type="text" id="nome" name="nome" value="Cliente" required>
+                    <label for="email">EMAIL (OBRIGATÓRIO)</label>
+                    <input type="email" id="email" name="email" value="Cliente@gmail.com" required>
+                    <label for="tipo">TIPO (OBRIGATÓRIO)</label>
+                    <select id="tipo" name="tipo" required>
+                        <option value="c1">Contação 1</option>
+                        <option value="c2">Contação 2</option>
+                        <option value="c3">Contação 3</option>
+                    </select>
+                    <label for="comentario">COMENTÁRIO (OBRIGATÓRIO)</label>
+                    <textarea id="comentario" name="comentario" rows="4" required></textarea>
+                    <input type="submit" value="Enviar">
+                </form> 
+            </section>
+        </main>
+        <footer>
+            <p>CVC Brasil Operadora e Agência de Viagens S.A</p>
+        </footer>
+    </body>
+</html>
